@@ -1,9 +1,11 @@
 @import '../common/base.scss';
 
-.bule-color {
-    font-size: 20px;
-    span{
-        color: $blue;
-        //font-size: 14px;
-    }
+.grid-theme{
+    width: 1024px;
+    margin: 40px auto;
+}
+.grid-hot {
+    width: 1024px;
+    background: #fff;
+    margin: 0 auto 40px;
 }
